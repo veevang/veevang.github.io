@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "chen-yw20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
       author_profile: true
       share: true
 
