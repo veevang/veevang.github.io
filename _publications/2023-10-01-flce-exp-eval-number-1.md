@@ -9,7 +9,8 @@ paperurl: 'http://veevang.github.io/files/chen2024contributions.pdf'
 citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).'
 ---
 Recommended citation: Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).
-<!-- ---
+
+<div style="display:none">
 title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
@@ -23,4 +24,5 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+</div>
