@@ -1,10 +1,10 @@
 ---
-title: 'Dialogue with Chan Chun Sing, Minister for Education of Singapore.'
+title: 'Had a dialogue with Chan Chun Sing, Minister for Education of Singapore.'
 date: 2023-09-13
 permalink: /posts/2023/09/dialogue-with-chan-chun-sing/
 tags:
   - Education
-  - the Republic of Singapore
+  - Singapore
 ---
 
 Had a dialogue with Chan Chun Sing, Minister for Education of Singapore.
