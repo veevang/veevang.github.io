@@ -8,7 +8,6 @@ venue: 'Manuscript'
 paperurl: 'http://veevang.github.io/files/chen2024contributions.pdf'
 citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).'
 ---
-Recommended citation: Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).
 
 <div style="display:none">
 title: "Paper Title Number 3"
