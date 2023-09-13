@@ -1,8 +1,12 @@
 ---
 title: "Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation"
 collection: publications
+permalink: /publication/2015-10-01-flce-exp-eval-number-1
+exerpt: 'A survey, an experimental evaluation and a benchmark framework.'
 date: 2023-10-01
 venue: 'Manuscript'
+paperurl: 'http://veevang.github.io/files/chen2024contributions.pdf'
+citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).'
 ---
 Recommended citation: Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).
 <!-- ---
