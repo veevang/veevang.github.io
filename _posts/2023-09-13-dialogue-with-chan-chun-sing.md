@@ -8,7 +8,7 @@ tags:
 ---
 
 On September 13, 2023, I participated as a student representative in the dialogue with H.E. Chan Chun Sing, the Minister for Education of the Republic of Singapore, organized by Tsinghua University. 
-For details, please refer to https://www.tsinghua.edu.cn/info/1177/106840.htm.
+For details, please refer to [https://www.tsinghua.edu.cn/info/1177/106840.htm](https://www.tsinghua.edu.cn/info/1177/106840.htm).
 
 <!-- Headings are cool
 ======
