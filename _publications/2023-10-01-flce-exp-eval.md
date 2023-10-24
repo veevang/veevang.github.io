@@ -1,8 +1,8 @@
 ---
 title: "Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation"
 collection: publications
-permalink: /publication/2015-10-01-flce-exp-eval
-exerpt: 'A survey, an experimental evaluation and a benchmark framework.'
+permalink: /publication/2023-10-01-flce-exp-eval
+exerpt: 'A survey; An experimental evaluation; Observations and findings; A benchmark framework.'
 date: 2023-10-01
 venue: 'Manuscript'
 paperurl:
