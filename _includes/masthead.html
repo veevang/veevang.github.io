@@ -13,9 +13,11 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
+            <!-- Since CV.pdf is a file, we want it to open in a new tab. -->
             {% if link.title == "CV" %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
               {% else %}
+              <!-- We want the other pages to open in the original tab. -->
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
