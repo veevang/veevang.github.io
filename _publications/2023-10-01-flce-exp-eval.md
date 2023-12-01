@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2023-10-01-flce-exp-eval
 exerpt: 'A survey; An experimental evaluation; Observations and findings; A benchmark framework.'
 date: 2023-10-01
-venue: 'Manuscript'
+venue: 'Proceedings of the VLDB Endowment'
 paperurl:
-citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2023. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Manuscript</i> (2023).'
+citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2024. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Proceedings of the VLDB Endowment</i> (2024). Under Revision.'
 ---
 
 <div style="display:none">

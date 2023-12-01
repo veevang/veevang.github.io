@@ -9,12 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-Chen Yiwei is an undergraduate student at [Weiyang College](https://www.wyc.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn), where he is pursuing a dual major in Mathematics and Physics, along with Civil Engineering and Systems. 
+Yiwei Chen is an undergraduate student at [Weiyang College](https://www.wyc.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn), where he is pursuing a dual major in Mathematics and Physics, along with Civil Engineering and Systems. 
 
-In parallel with his undergraduate studies, Chen Yiwei holds a position as a research assistant at [Database Laboratory](https://dbgroup.cs.tsinghua.edu.cn/) at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University. 
-During this role, he has the distinct honor of working under the guidance of Professor [Li Guoliang](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and receives valuable guidance and insights from Ph.D. [Wang Yong](https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en) and Ph.D. [Li Kaiyu](https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en).
+In parallel with his undergraduate studies, Yiwei Chen holds a position as a research assistant at [Database Laboratory](https://dbgroup.cs.tsinghua.edu.cn/) at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University. 
+During this role, he has the distinct honor of working under the guidance of Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and receives valuable guidance and insights from Dr. [Yong Wang](https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en) and Dr. [Kaiyu Li](https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en).
 
-Beyond his academic pursuits, Chen Yiwei harbors a deep love for the arts and sports. 
+Beyond his academic pursuits, Yiwei Chen harbors a deep love for the arts and sports. 
 He showcases his rhythmic talents as the drummer for both LostExit and Towards Constellations bands. Additionally, he proudly represents Weiyang College as an active player on their baseball team.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

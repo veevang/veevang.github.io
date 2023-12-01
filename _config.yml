@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Yiwei" # "Your Name / Site Title"
+title                    : "Yiwei Chen" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Chen Yiwei"
+name                     : &name "Yiwei Chen"
 description              : &description "Undergraduate at Tsinghua University"
 url                      : https://veevang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Yiwei"
+  name             : "Yiwei Chen"
   avatar           : "profile.png"
   bio              : "Undergraduate student at Tsinghua University"
   location         : "Beijing, China"
