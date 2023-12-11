@@ -11,8 +11,8 @@ redirect_from:
 
 Yiwei Chen is an undergraduate student at [Weiyang College](https://www.wyc.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn), where he is pursuing a dual major in Mathematics and Physics, along with Civil Engineering and Systems. 
 
-In parallel with his undergraduate studies, Yiwei Chen holds a position as a research assistant at [Database Laboratory](https://dbgroup.cs.tsinghua.edu.cn/) at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University. 
-During this role, he has the distinct honor of working under the guidance of Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and receives valuable guidance and insights from Dr. [Yong Wang](https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en) and Dr. [Kaiyu Li](https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en).
+In parallel with his undergraduate studies, Yiwei Chen holds a position as a research assistant intern at [Database Laboratory](https://dbgroup.cs.tsinghua.edu.cn/) at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University. 
+During this role, he has the distinct honor of working under the guidance of [Prof. Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and receives valuable guidance and insights from [Dr. Yong Wang](https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en) and [Dr. Kaiyu Li](https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en).
 
 Beyond his academic pursuits, Yiwei Chen harbors a deep love for the arts and sports. 
 He showcases his rhythmic talents as the drummer for both LostExit and Towards Constellations bands. Additionally, he proudly represents Weiyang College as an active player on their baseball team.
