@@ -2,14 +2,17 @@
 title: "Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation"
 collection: publications
 permalink: /publication/2024-08-25-flce-exp-eval
-exerpt: 'A survey; An experimental evaluation; Observations and findings; A benchmark framework.'
+exerpt: 'This paper is an experimental paper regarding contributions estimation in Federated Learning (FL).'
 date: 2024-08-25
 venue: 'Proceedings of the VLDB Endowment'
-paperurl:
-citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2024. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Proceedings of the VLDB Endowment</i> (2024). Under Revision.'
+paperurl: 'https://www.vldb.org/pvldb/vol17/p2077-li.pdf'
+citation: 'Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2024. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Proceedings of the VLDB Endowment</i> (2024). '
 ---
+This paper is an experimental paper regarding contributions estimation in Federated Learning (FL).
 
-Under Revision.
+[Download paper here](https://www.vldb.org/pvldb/vol17/p2077-li.pdf)
+
+Recommended citation: Yiwei Chen, Kaiyu Li, Guoliang Li, and Yong Wang. 2024. Contributions Estimation in Federated Learning: A Comprehensive Experimental Evaluation. <i>Proceedings of the VLDB Endowment</i> (2024). 
 
 <div style="display:none">
 title: "Paper Title Number 3"
