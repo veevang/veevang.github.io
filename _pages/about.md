@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Yiwei Chen is an undergraduate student at [Weiyang College](https://www.wyc.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn), where he is pursuing a dual major in Mathematics and Physics, along with Civil Engineering and Systems. 
+CHEN Yiwei is doctoral student at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), where he is pursuing a Ph.D. degree in Computer Science.
+During his Ph.D., He is fortunate to work under the supervision of [Prof. XIAO Xiaokui](https://www.comp.nus.edu.sg/~xiaoxk/index.html).
 
-In parallel with his undergraduate studies, Yiwei Chen holds a position as a research assistant intern at [Database Laboratory](https://dbgroup.cs.tsinghua.edu.cn/) at [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University. 
-During this role, he has the distinct honor of working under the guidance of [Prof. Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and receives valuable guidance and insights from [Dr. Yong Wang](https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en) and [Dr. Kaiyu Li](https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en).
+CHEN Yiwei received dual bachelor's degrees from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024: a B.Sc. in Mathematics and Physics, and a B.Eng. in Civil Engineering and Systems.
+During his undergraduate studies, he worked as a research assistant intern at [Database Laboratory](https://dbgroup.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University.
+During this role, he has the honor of working under the supervision of [Prof. LI Guoliang](https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) and receives valuable guidance and insights from [Dr. LI Kaiyu](https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en) and [Dr. WANG Yong](https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en).
 
-Beyond his academic pursuits, Yiwei Chen harbors a deep love for the arts and sports. 
-He showcases his rhythmic talents as the drummer for both LostExit and Towards Constellations bands. Additionally, he proudly represents Weiyang College as an active player on their baseball team.
+[//]: # (Yiwei Chen is an undergraduate student at [Weiyang College]&#40;https://www.wyc.tsinghua.edu.cn&#41;, [Tsinghua University]&#40;https://www.tsinghua.edu.cn&#41;, where he is pursuing a dual major in Mathematics and Physics, along with Civil Engineering and Systems. )
+
+
+[//]: # (In parallel with his undergraduate studies, Yiwei Chen holds a position as a research assistant intern at [Database Laboratory]&#40;https://dbgroup.cs.tsinghua.edu.cn/&#41; at [Department of Computer Science and Technology]&#40;https://www.cs.tsinghua.edu.cn/&#41;, Tsinghua University. )
+[//]: # (During this role, he has the distinct honor of working under the guidance of [Prof. Guoliang Li]&#40;https://dbgroup.cs.tsinghua.edu.cn/ligl/index.html&#41; and receives valuable guidance and insights from [Dr. Yong Wang]&#40;https://scholar.google.com/citations?user=lvb80x4AAAAJ&hl=en&#41; and [Dr. Kaiyu Li]&#40;https://scholar.google.com/citations?user=0Bk1Nd0AAAAJ&hl=en&#41;.)
+
+[//]: # (Beyond his academic pursuits, Yiwei Chen harbors a deep love for the arts and sports. )
+[//]: # (He showcases his rhythmic talents as the drummer for both LostExit and Towards Constellations bands. Additionally, he proudly represents Weiyang College as an active player on their baseball team.)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
